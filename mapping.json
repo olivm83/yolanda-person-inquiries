@@ -1,0 +1,10 @@
+{
+  "map": [
+    ["sender", "from.name"],
+    ["message", "message"],
+    ["sender's contact number", ""],
+    ["recipients name", ""],
+    ["recipients address", ""]
+  ],
+  "collection": "data"
+}
